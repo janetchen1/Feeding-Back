@@ -1,6 +1,6 @@
 # Feeding-Back
 
-"Feeding Back" was my final project for Harvard's Computer Science 50.
+"Feeding Back" was my final project for Harvard's Computer Science 50. Written December 2015 in PHP, SQL, HTML, CSS.
 
 Inspiration: In my first month as Marketing Assistant for Harvard's Dining Services, I read
 hundreds of emails of feedback. Although our website had a form for feedback, it could only
