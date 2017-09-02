@@ -12,5 +12,5 @@ Feeding Back will collect and analyze your comments, and also make it easy for d
 and cafe managers to get back to you.
 
 I am working with Harvard IT to integrate the site into their system, but as it ran out of my 
-IDE, it is no longer accessible. I posted a video introduction at 
+IDE, it is no longer accessible. Video introduction at 
 https://www.youtube.com/watch?v=isORmjnLIY0
